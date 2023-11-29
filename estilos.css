@@ -1,0 +1,8 @@
+.altura-img {
+    height: 200px;
+    border-radius: 10px;
+}
+.tablero div img:hover{
+    transform: scale(1.1);
+    box-shadow: 10px 0px 19px 0px rgba(87,76,76,0.62);
+}
